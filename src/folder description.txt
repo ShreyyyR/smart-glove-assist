@@ -1,0 +1,1 @@
+This folder contains src code to the Smart Glove for the Hearing Impaired and Speech Impaired.
